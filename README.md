@@ -1,2 +1,4 @@
-# googleSheets
-Connection to read, write and update Google Sheets. Coded in PHP 
+# 📊 googleSheets
+Connection to read, write and update Google Sheets.
+
+Code: PHP 
