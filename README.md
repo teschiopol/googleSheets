@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/teschiopol/googlesheets/badge)](https://www.codefactor.io/repository/github/teschiopol/googlesheets)
+
 # 📊 googleSheets
 Connection to read, write and update Google Sheets.
 
